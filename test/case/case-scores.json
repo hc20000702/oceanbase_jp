@@ -1,0 +1,26 @@
+{
+  "basic":{"necessary":true, "score":10},
+  "primary-date":{"necessary":true, "score":10},
+  "primary-update":{"necessary":true, "score":10},
+  "primary-typecast": {"necessary":true, "score":20},
+  "primary-select-meta":{"necessary":true, "score":10},
+  "primary-select-tables":{"necessary":true, "score":10},
+  "primary-aggregation-func":{"necessary":true, "score":10},
+  "primary-drop-table":{"necessary":true, "score":10},
+
+  "primary-insert":{"necessary":true, "score":10},
+  "primary-join-tables":{"necessary":true, "score":20},
+  "primary-null":{"necessary":true, "score":20},
+  "primary-unique":{"necessary":true, "score":10},
+  "primary-simple-sub-query":{"necessary":true, "score":10},
+  "primary-multi-index":{"necessary":true, "score":20},
+  "primary-text":{"necessary":true, "score":20},
+  "primary-expression":{"necessary":true, "score":20},
+  "primary-complex-sub-query":{"necessary":true, "score":20},
+  "primary-order-by":{"necessary":true, "score":10},
+  "primary-group-by":{"necessary":true, "score":20},
+  "primary-like":{"necessary":true, "score":10},
+  "primary-update-select":{"necessary":true, "score":10},
+  "primary-function":{"necessary":true, "score":10},
+  "primary-final":{"necessary":true, "score":50}
+}
